@@ -20,16 +20,17 @@
 - ⚡ Fun fact: I have 25 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
 
 ***
-### Work on and learning to 🤓
-<img src="https://simpleicons.org/icons/php.svg" width="10%">
-<img src="https://simpleicons.org/icons/laravel.svg" width="10%">
-<img src="https://simpleicons.org/icons/html5.svg" width="10%">
-<img src="https://simpleicons.org/icons/css3.svg" width="10%">
-<img src="https://simpleicons.org/icons/bootstrap.svg" width="10%">
-<img src="https://simpleicons.org/icons/github.svg" width="10%">
-<img src="https://simpleicons.org/icons/gitlab.svg" width="10%">
-<img src="https://simpleicons.org/icons/bitbucket.svg" width="10%">
-<img src="https://simpleicons.org/icons/vue-dot-js.svg" width="10%">
-<img src="https://simpleicons.org/icons/node-dot-js.svg" width="10%">
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" width="10%">
-<img src="https://simpleicons.org/icons/googlecloud.svg" width="10%">
+### Work and learning 🤓
+
+<img align="left" src="https://simpleicons.org/icons/php.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/laravel.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/html5.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/css3.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/bootstrap.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/github.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/gitlab.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/bitbucket.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" width="10%">
+<img align="left" src="https://simpleicons.org/icons/googlecloud.svg" width="10%">
