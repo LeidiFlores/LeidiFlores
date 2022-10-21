@@ -17,7 +17,7 @@
 - 💬 Ask me about PHP and Laravel
 - 📫 How to reach me: Twitter beibi xd
 - 😄 Pronouns: she 
-- ⚡ Fun fact: I have 25 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
+- ⚡ Fun fact: I have 27 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
 
 ***
 ### Work and learning 🤓
