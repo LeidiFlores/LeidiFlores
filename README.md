@@ -6,6 +6,9 @@
 
 #### Venezuelan backend 👾 -- Aprendiendo sobre la marcha 💚💙
 
+[![@leidiflores's Holopin board](https://holopin.me/leidiflores)](https://holopin.io/@leidiflores)
+
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/leiiraawr?label=Leidi&style=social)](https://twitter.com/LeiiRaawr)
 
 <!-- links -->
