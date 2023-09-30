@@ -9,7 +9,7 @@
 [![@leidiflores's Holopin board](https://holopin.me/leidiflores)](https://holopin.io/@leidiflores)
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leiiraawr?label=Leidi&style=social)](https://twitter.com/LeiiRaawr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leidie_dev?label=Leidi&style=social)](https://twitter.com/leidie_dev)
 
 <!-- links -->
 [website]:https://leidie-dev.super.site/
