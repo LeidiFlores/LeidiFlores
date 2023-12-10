@@ -26,3 +26,5 @@
 
 ***
 ### Work and learning 🤓
+
+[![wakatime](https://wakatime.com/badge/user/a2ab5a5e-6f68-4885-bcee-b0b092fa0a8b.svg)](https://wakatime.com/@a2ab5a5e-6f68-4885-bcee-b0b092fa0a8b)
