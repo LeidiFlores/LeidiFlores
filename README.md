@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on web software development.
 - 🌱 I’m currently improving my english also learning and practice with: php, javascript, go, python and web3.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have 29 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
+- ⚡ Fun fact: I have 30 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
 
 ***
 ### Work and learning 🤓
