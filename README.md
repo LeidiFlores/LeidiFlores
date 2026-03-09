@@ -1,28 +1,73 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/62189355/197426902-ba9c81b8-b7ee-449c-adf0-d1cceed517ba.png" alt="leidi one"/>
-</p>
+# Hi, I'm Leidi 👋
 
-## Hi ! I'm [Leidi Flores][website] 👋
+**Senior Full Stack Engineer** · PHP · Laravel · Cloud · 7+ years building scalable web applications
 
-#### Venezuelan backend 👾 -- Aprendiendo sobre la marcha 💚💙
+Based in Mexico City 🇲🇽 · Open to remote opportunities
 
-[![@leidiflores's Holopin board](https://holopin.me/leidiflores)](https://holopin.io/@leidiflores)
+---
 
+## 🚀 About Me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leidie_dev?label=Leidi&style=social)](https://twitter.com/leidie_dev)
+I'm a Full Stack Engineer specialized in PHP/Laravel backend development with strong experience in cloud infrastructure and API design. I've contributed to high-traffic e-commerce platforms, SaaS products, and enterprise systems — always with a focus on clean architecture, performance, and maintainable code.
 
-<!-- links -->
-[website]:https://leidie-dev.super.site/
+- 🔭 Currently working at **Odella** as Full Stack Developer & Systems Analyst
+- 🌱 Pursuing **Azure Developer Associate (AZ-204)** certification
+- 💡 Passionate about **clean architecture**, **C4 modeling**, and **CI/CD workflows**
+- 🤝 Experienced collaborating with **U.S.-based remote teams** (EST timezone)
+- 💬 Ask me about **Laravel, REST APIs, MySQL optimization, or Docker**
 
-***
-### About me 🌻
+---
 
-- 🔭 I’m currently working on web software development.
-- 🌱 I’m currently improving my english also learning and practice with: php, javascript, go, python and web3.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have 30 years old but look like a teenager. Slipknot and Juan Luis Guerra in the same playlist.
+## 🛠️ Tech Stack
 
-***
-### Work and learning 🤓
+**Backend**
 
-[![wakatime](https://wakatime.com/badge/user/a2ab5a5e-6f68-4885-bcee-b0b092fa0a8b.svg)](https://wakatime.com/@a2ab5a5e-6f68-4885-bcee-b0b092fa0a8b)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Database & Cache**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Leidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeidiFlores&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeidiFlores&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 *Pinning projects soon — check back!*
+
+<!--
+Use GitHub's "Pin a repository" feature on your profile to highlight your best repos.
+Suggested repos to pin: your Laravel APIs, any personal projects, or coding challenges.
+-->
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leidi-flores-reyes/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:floresreyesleidi@gmail.com)
