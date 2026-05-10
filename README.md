@@ -56,14 +56,13 @@ I'm a Full Stack Engineer specialized in PHP/Laravel backend development with st
 
 ---
 
-## 📌 Featured Projects
+## 📔Engineering Highlights
 
-> 🚧 *Pinning projects soon — check back!*
-
-<!--
-Use GitHub's "Pin a repository" feature on your profile to highlight your best repos.
-Suggested repos to pin: your Laravel APIs, any personal projects, or coding challenges.
--->
+- Migrated legacy PHP systems to cloud-native infrastructure
+- Designed API integrations with ERP and e-commerce platforms
+- Led backend modernization initiatives using Docker + CI/CD
+- Improved system maintainability through clean architecture practices
+- Experience supporting high-availability business-critical systems
 
 ---
 
